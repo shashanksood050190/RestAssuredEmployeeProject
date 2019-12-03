@@ -1,0 +1,967 @@
+2019-12-02 18:15:47 INFO  EmployeesRstAPI:31 - hi
+2019-12-02 18:26:32 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:26:43 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:26:43 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@5b64c4b7
+2019-12-02 18:29:15 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@5b64c4b7
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:46 - *******checking status code******
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:48 - response time  ==>4561
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:29:25 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:30:47 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@5b64c4b7
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:48 - response time  ==>9414
+2019-12-02 18:31:04 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:31:04 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:34:04 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:57 - *******checking content type******
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:59 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@7fc44dec
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:48 - response time  ==>5055
+2019-12-02 18:34:15 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:34:15 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:35:02 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:57 - *******checking content type******
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:59 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@36676c1a
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:48 - response time  ==>4994
+2019-12-02 18:35:12 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:35:12 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:37:12 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@36676c1a
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:48 - response time  ==>4553
+2019-12-02 18:37:22 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 18:37:22 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 18:38:57 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@36676c1a
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:48 - response time  ==>4711
+2019-12-02 18:39:08 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:77 - *******checking server type******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:79 - content type   ==>nginx/1.16.0
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 18:39:08 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 18:40:33 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:87 - *******checking content encoding******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:89 - content encoding   ==>gzip
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@5b408dc3
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:48 - response time  ==>4816
+2019-12-02 18:40:44 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:77 - *******checking server type******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:79 - content type   ==>nginx/1.16.0
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 18:40:44 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 18:46:03 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@293d0107
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:49 - response time  ==>5059
+2019-12-02 18:46:14 WARN  EmployeesRstAPI:51 - Response time is greater than 2000
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 18:46:14 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-02 19:03:55 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:100 - content Length  ==>4596
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@35e5d0e5
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:49 - response time  ==>4667
+2019-12-02 19:04:06 WARN  EmployeesRstAPI:51 - Response time is greater than 2000
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:80 - content type   ==>Apache
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 19:04:06 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-02 19:18:26 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@7f6f61c8
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:48 - response time  ==>4440
+2019-12-02 19:18:36 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 19:18:36 INFO  EmployeesRstAPI:38 - status  code ==>404
+2019-12-02 19:20:10 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:69 - content type   ==>text/html;charset=UTF-8
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@73173f63
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:48 - response time  ==>4210
+2019-12-02 19:20:20 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:38 - status  code ==>404
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 19:20:20 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 404 Not Found
+2019-12-02 19:20:33 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@c055c54
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:48 - response time  ==>4212
+2019-12-02 19:20:43 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 19:20:43 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 19:22:03 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:28 - response body ==>io.restassured.internal.RestAssuredResponseImpl@c055c54
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:48 - response time  ==>4269
+2019-12-02 19:22:13 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 19:22:13 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 19:22:57 INFO  EmployeesRstAPI:16 - *******started TC001_Get_All_Employees******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:67 - *******checking content type******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:69 - content type   ==>text/html; charset=UTF-8
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:26 - *******checking response body******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:28 - response body ==>{"id":"1","employee_name":"venky","employee_salary":"0","employee_age":"0","profile_image":""}
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:46 - *******checking response time******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:48 - response time  ==>4102
+2019-12-02 19:23:07 WARN  EmployeesRstAPI:50 - Response time is greater than 2000
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:36 - *******checking status code******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:38 - status  code ==>200
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:57 - *******checking status line******
+2019-12-02 19:23:07 INFO  EmployeesRstAPI:59 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 19:24:49 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-02 19:24:58 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-02 19:24:58 INFO  EmployeesRstAPI:91 - content Length  ==>82
+2019-12-02 19:24:58 WARN  EmployeesRstAPI:93 - content length is less than 100
+2019-12-02 19:24:58 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 19:24:58 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-02 19:24:58 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"venky","employee_salary":"0","employee_age":"0","profile_image":""}
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:49 - response time  ==>4089
+2019-12-02 19:24:59 WARN  EmployeesRstAPI:51 - Response time is greater than 2000
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:80 - content type   ==>Apache
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 19:24:59 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-02 20:13:28 INFO  EmployeesRstAPI:22 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:13:41 INFO  EmployeesRstAPI:40 - *******checking response body******
+2019-12-02 20:13:41 INFO  EmployeesRstAPI:42 - response body ==>{"name":"JohnCUWWj","salary":"61596","age":"gw","id":"2501"}
+2019-12-02 20:14:57 INFO  EmployeesRstAPI:22 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:15:10 INFO  EmployeesRstAPI:40 - *******checking response body******
+2019-12-02 20:15:10 INFO  EmployeesRstAPI:42 - response body ==>{"name":"JohnzDkoS","salary":"72436","age":"55","id":"2509"}
+2019-12-02 20:15:10 INFO  EmployeesRstAPI:52 - *******checking status code******
+2019-12-02 20:15:10 INFO  EmployeesRstAPI:54 - status  code ==>200
+2019-12-02 20:20:01 INFO  EmployeesRstAPI:22 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:72 - *******checking content type******
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:74 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:40 - *******checking response body******
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:42 - response body ==>{"name":"JohnAovKZ","salary":"71466","age":"64","id":"2537"}
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:52 - *******checking status code******
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:54 - status  code ==>200
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:62 - *******checking status line******
+2019-12-02 20:20:15 INFO  EmployeesRstAPI:64 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:20:47 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnAPpDn","salary":"02368","age":"53","id":"2542"}
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:21:00 INFO  EmployeesRstAPI:108 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-02 20:21:31 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnGRXRH","salary":"22639","age":"06","id":"2550"}
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:21:44 INFO  EmployeesRstAPI:108 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-02 20:22:30 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnjgkLP","salary":"71999","age":"00","id":"2558"}
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:22:43 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:23:08 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnryETJ","salary":"27174","age":"61","id":"2562"}
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:23:21 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:30:35 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnOlZCh","salary":"83540","age":"83"}
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:30:49 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:42:46 INFO  EmployeesRstAPI:89 - *******checking content encoding******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:66 - *******checking content type******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:35 - *******checking response body******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:77 - *******checking server type******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:46 - *******checking status code******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:56 - *******checking status line******
+2019-12-02 20:42:47 INFO  EmployeesRstAPI:101 - *******started TC004_Put_Employee_Record******
+2019-12-02 20:45:09 INFO  EmployeesRstAPI:91 - *******checking content encoding******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:37 - *******checking response body******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:79 - *******checking server type******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:48 - *******checking status code******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 20:45:10 INFO  EmployeesRstAPI:18 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:45:21 INFO  EmployeesRstAPI:28 - 
+2019-12-02 20:45:27 INFO  EmployeesRstAPI:103 - *******started TC004_Put_Employee_Record******
+2019-12-02 20:46:42 INFO  EmployeesRstAPI:91 - *******checking content encoding******
+2019-12-02 20:46:42 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 20:46:42 INFO  EmployeesRstAPI:37 - *******checking response body******
+2019-12-02 20:46:43 INFO  EmployeesRstAPI:79 - *******checking server type******
+2019-12-02 20:46:43 INFO  EmployeesRstAPI:48 - *******checking status code******
+2019-12-02 20:46:43 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 20:46:43 INFO  EmployeesRstAPI:18 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:46:53 INFO  EmployeesRstAPI:28 - 1
+2019-12-02 20:46:59 INFO  EmployeesRstAPI:103 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:47:34 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:47:45 INFO  EmployeesRstAPI:29 - 1
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:94 - content encoding   ==>gzip
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:71 - content type   ==>text/html;charset=UTF-8
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:40 - response body ==><html>
+    <head>
+        <title>Method not allowed</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Method not allowed</h1>
+        <p>Method not allowed. Must be one of: <strong>GET</strong></p>
+    </body>
+</html>
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:82 - content type   ==>Apache
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:51 - status  code ==>405
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 405 Method Not Allowed
+2019-12-02 20:47:51 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:49:16 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:49:29 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:94 - content encoding   ==>gzip
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:71 - content type   ==>text/html;charset=UTF-8
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:40 - response body ==><html>
+    <head>
+        <title>Method not allowed</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Method not allowed</h1>
+        <p>Method not allowed. Must be one of: <strong>GET</strong></p>
+    </body>
+</html>
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-02 20:49:34 INFO  EmployeesRstAPI:82 - content type   ==>Apache
+2019-12-02 20:49:35 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-02 20:49:35 INFO  EmployeesRstAPI:51 - status  code ==>405
+2019-12-02 20:49:35 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-02 20:49:35 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 405 Method Not Allowed
+2019-12-02 20:49:35 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:50:59 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:51:10 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:82 - content type   ==>Apache
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:51:16 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:54:05 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnIFHhr","salary":"32391","age":"20","id":"2747"}
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-02 20:54:18 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:100 - content Length  ==>5594
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@45905bff
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:49 - response time  ==>854
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:80 - content type   ==>Apache
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-02 20:54:22 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnufQFX","salary":"95410","age":"38"}
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:86 - content type   ==>Apache
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-02 20:54:29 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:54:32 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:82 - content type   ==>Apache
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-02 20:54:38 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:91 - content Length  ==>93
+2019-12-02 20:54:42 WARN  EmployeesRstAPI:93 - content length is less than 100
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnufQFX","employee_salary":"95410","employee_age":"38","profile_image":""}
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:49 - response time  ==>770
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:80 - content type   ==>Apache
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-02 20:54:42 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 18:08:16 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:08:31 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:08:31 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:09:36 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnsAbfF","salary":"39480","age":"67","id":"10129"}
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:09:49 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:10:22 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:10:35 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:10:35 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:11:26 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:11:39 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:11:39 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:13:33 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:13:46 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:13:46 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:16:24 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:16:37 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnDHwgf","salary":"31513","age":"49","id":"10186"}
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:16:38 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@4e4efc1b
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:49 - response time  ==>1225
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 18:16:42 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnxywqY","salary":"37400","age":"17"}
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:16:48 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:16:52 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:16:58 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:91 - content Length  ==>103
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnxywqY","employee_salary":"37400","employee_age":"17","profile_image":""}
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:49 - response time  ==>1082
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:17:02 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 18:19:00 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnZcjdS","salary":"43022","age":"93","id":"10207"}
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:19:13 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@4e4efc1b
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:49 - response time  ==>1338
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 18:19:18 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnXDqON","salary":"97159","age":"38"}
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:19:24 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:19:28 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:19:34 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:91 - content Length  ==>103
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnXDqON","employee_salary":"97159","employee_age":"38","profile_image":""}
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:49 - response time  ==>1112
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:19:38 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 18:54:03 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnNFSjd","salary":"52924","age":"16","id":"10505"}
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 18:54:16 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@6d1d4d7
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:49 - response time  ==>1365
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:54:20 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:54:21 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 18:54:21 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnzLaxM","salary":"07810","age":"13"}
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 18:54:27 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:54:32 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 18:54:38 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:91 - content Length  ==>102
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnzLaxM","employee_salary":"7810","employee_age":"13","profile_image":""}
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:49 - response time  ==>1096
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 18:54:42 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 19:06:14 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnikkTm","salary":"18746","age":"32","id":"10594"}
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:06:27 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:06:28 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:06:28 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:06:28 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:06:28 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@6d1d4d7
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:49 - response time  ==>1337
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 19:06:32 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnrTUEm","salary":"73000","age":"63"}
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:06:39 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:06:45 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:06:51 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 19:06:55 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 19:06:55 INFO  EmployeesRstAPI:91 - content Length  ==>103
+2019-12-03 19:06:55 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:06:55 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnrTUEm","employee_salary":"73000","employee_age":"63","profile_image":""}
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:49 - response time  ==>1191
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:06:56 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 19:11:53 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnFOFnw","salary":"31560","age":"11","id":"10625"}
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:12:12 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@6d1d4d7
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:49 - response time  ==>1477
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 19:12:17 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohnCDzep","salary":"39411","age":"62"}
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:12:23 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:12:27 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:12:33 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:91 - content Length  ==>103
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"JohnCDzep","employee_salary":"39411","employee_age":"62","profile_image":""}
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:49 - response time  ==>1111
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:12:37 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
+2019-12-03 19:44:03 INFO  EmployeesRstAPI:23 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:43 - response body ==>{"name":"JohniUGlU","salary":"51756","age":"32","id":"10840"}
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:44:18 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:44:19 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:44:19 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:44:19 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:44:19 INFO  EmployeesRstAPI:108 - *******started TC003_Post_Employee_Record******
+2019-12-03 19:44:19 INFO  EmployeesRstAPI:17 - *******started TC001_Get_All_Employees******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:88 - *******checking content encoding******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:90 - content encoding   ==>gzip
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:98 - *******checking content length******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:100 - content Length  ==>null
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:109 - *******checking cookies ******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:29 - response body ==>io.restassured.internal.RestAssuredResponseImpl@6d1d4d7
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:49 - response time  ==>1454
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:117 - ****** finished TC001_Get_All_Employess*************
+2019-12-03 19:44:23 INFO  EmployeesRstAPI:23 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:96 - *******checking content encoding******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:98 - content encoding   ==>null
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:73 - *******checking content type******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:75 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:41 - *******checking response body******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:43 - response body ==>{"name":"Johnyfqus","salary":"01086","age":"81"}
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:84 - *******checking server type******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:86 - content type   ==>nginx/1.16.0
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:53 - *******checking status code******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:55 - status  code ==>200
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:63 - *******checking status line******
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:65 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:44:29 INFO  EmployeesRstAPI:108 - *******started TC004_Put_Employee_Record******
+2019-12-03 19:44:30 INFO  EmployeesRstAPI:19 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:44:35 INFO  EmployeesRstAPI:29 - empID ==>1
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:92 - *******checking content encoding******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:94 - content encoding   ==>null
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:69 - *******checking content type******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:71 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:38 - *******checking response body******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:40 - response body ==>{"success":{"text":"successfully! deleted Records"}}
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:80 - *******checking server type******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:82 - content type   ==>nginx/1.16.0
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:49 - *******checking status code******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:51 - status  code ==>200
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:59 - *******checking status line******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:61 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:104 - *******started TC005_Delete_Employee_Record******
+2019-12-03 19:44:42 INFO  EmployeesRstAPI:17 - *******started TC002_Get_Single_Employee_Data******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:89 - *******checking content length******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:91 - content Length  ==>102
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:68 - *******checking content type******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:70 - content type   ==>text/html; charset=UTF-8
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:27 - *******checking response body******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:29 - response body ==>{"id":"1","employee_name":"Johnyfqus","employee_salary":"1086","employee_age":"81","profile_image":""}
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:47 - *******checking response time******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:49 - response time  ==>1145
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:78 - *******checking server type******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:80 - content type   ==>nginx/1.16.0
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:37 - *******checking status code******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:39 - status  code ==>200
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:58 - *******checking status line******
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:60 - status  code ==>HTTP/1.1 200 OK
+2019-12-03 19:44:46 INFO  EmployeesRstAPI:102 - *******finished TC002_Get_Single_Employee_Data******
